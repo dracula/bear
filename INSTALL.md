@@ -1,17 +1,12 @@
-### [X](http://link-to-x.com)
+### [Bear](https://bear.app/)
 
-#### Install using Git
+#### Install
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-    $ git clone https://github.com/dracula/template.git
-
-#### Install manually
-
-Download using the [GitHub .zip download](https://github.com/dracula/template/archive/master.zip) option and unzip them.
+Download the [Bear](https://bear.app/) app.
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Go to `Preferences`.
+1. Navigate to `Themes` and choose `Dracula`.
+
+_Note: you must have a PRO account in order to use that._
